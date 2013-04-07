@@ -11,7 +11,7 @@
 // USQuaternion
 //================================================================//
 class USQuaternion {
-private:
+public:
 
 	float		mS;
 	USVec3D		mV;
